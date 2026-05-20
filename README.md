@@ -1,8 +1,6 @@
 # 📦 Inventory Management System
 
-A RESTful backend API for managing a product catalogue organised by categories. Built with **Java 17**, **Spring Boot 3.3**, **PostgreSQL 16**, and containerised with **Docker**.
 
----
 
 ## 🛠️ Tech Stack
 
